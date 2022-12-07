@@ -4,4 +4,4 @@ This guess the number game is a short TypeScript/Node.js project that allows the
 
 Create a GitHub repository for the project and submit its URL in the project submission form. 
 
-  npm i num_guess_smashhar
+    npm i num_guess_smashhar
